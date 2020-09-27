@@ -1,0 +1,7 @@
+*build*/
+*squashfs-root*/
+*.AppImage
+.idea/
+runtime
+runtime-*
+*.sh
